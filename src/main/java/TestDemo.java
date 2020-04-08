@@ -3,5 +3,6 @@ public class TestDemo {
         System.out.println("hello word  git");
         System.out.println("heihei");
         System.out.println("again 666");
+        System.out.println("666");
     }
 }
